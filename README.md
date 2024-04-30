@@ -58,7 +58,7 @@
     <button onclick="appendValue('-')">-</button>
     <button onclick="appendValue('*')">*</button>
     <button onclick="appendValue('/')">/</button>
-    <button onclick="percentge('%')">%</button>
+    <button onclick="percentage('%')">%</button>
     <button onclick="clearResult( )"> C </button>
    
   </div>
